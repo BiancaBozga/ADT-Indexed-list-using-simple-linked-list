@@ -1,0 +1,6 @@
+﻿  App.cpp
+  LI.cpp
+C:\Users\BOZGA\source\repos\SDA_Lista_indexata\SDA_Lista_indexata\LI.cpp(170,8): warning C4101: 'el': unreferenced local variable
+  Generating Code...
+C:\Users\BOZGA\source\repos\SDA_Lista_indexata\SDA_Lista_indexata\LI.cpp(43): warning C4715: 'LI::vida': not all control paths return a value
+  SDA_Lista_indexata.vcxproj -> C:\Users\BOZGA\source\repos\SDA_Lista_indexata\x64\Debug\SDA_Lista_indexata.exe
